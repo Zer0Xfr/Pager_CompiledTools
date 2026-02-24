@@ -15,7 +15,7 @@ These tools are cross-compiled using the OpenWrt SDK 24.10 to ensure compatibili
 ## Installation
 
 1) Transfer the the precompiled binary to the Pager
-2) On trhe pager run `sudo opkg install binary.ipk e.g:  sudo opkg install reaver_1.6.6-r1_mipsel_24kc.ipk`
+2) On the pager run `sudo opkg install binary.ipk` e.g: `sudo opkg install reaver_1.6.6-r1_mipsel_24kc.ipk`
 3) ???
 4) Profit
 
